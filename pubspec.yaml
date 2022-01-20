@@ -67,7 +67,6 @@ flutter:
   assets:
    - assets/
 
-
   fonts:
     - family: default
       fonts:
